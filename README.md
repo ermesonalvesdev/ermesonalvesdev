@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ermesonalvesdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ermesonalvesdev/ermesonalvesdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Junior developer teams to improve more knowledge and have a bigger network
+- 🌱 I’m currently learning mobile development with React native and Expo
+- 💞️ I’m looking to collaborate on in mobile development teams. Through React Native technology 
+- 📫 How to reach me Wpp> 88981501415
